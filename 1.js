@@ -91,12 +91,5 @@
 // }
 // async function asyncFn(){
 //     const promises = [
-//         await axios.get('https://jsonplaceholder.typicode.com/posts/1'),
-//         await axios.get('https://jsonplaceholder.typicode.com/posts/2'),
-//     ];
-//     const [res1, res2] = await Promise.all(promises)
-//     // ...
-// }
-// test test test
-// test test test
+// test test tes
 // test test test
